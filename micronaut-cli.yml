@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: net.safri
+---
+testFramework: spock
+sourceLanguage: groovy
